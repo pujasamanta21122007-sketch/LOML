@@ -60,16 +60,11 @@ button:hover {
 
 <h1>For You</h1>
 
-<p>Helluu Snehu🧿🫶  
+<p>Helluu Snehuuu🧿🫶  
 I have made this only for you…</p>
 
 <div class="message">
-I love You so much dear🙃💕  
- whenever you feel low, I’m always with you ❤️
-</div>
-
-<div class="message">
-You have become a part of my daily life🫂❤️,My Home🧿
+শুভ সকাল Bbuu<3😘🎀
 </div>
 
 <button onclick="showSurprise()">🎁 Click for Surprise</button>
@@ -85,15 +80,13 @@ let count = 0;
 
 function showSurprise() {
     document.getElementById("surprise").innerHTML =
-    "Mai hi hu surprise apke life me😼🎀💌";
+    "Maii hi hu surprise apke life me😼🎀💌";
 }
 
 function showLove() {
 
     const messages = [
-        "I believe in you, You can❤️",
-        "I’m proud of you always❤️",
-        "You are never alone, I’m here🧿🫶",
+        "I Love You🧿❤️",
     ];
 
     document.getElementById("surprise").innerHTML =
